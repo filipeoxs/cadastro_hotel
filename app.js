@@ -89,5 +89,5 @@ Guest.create({
 
 // Abertura do Servidor
 app.listen(3031,function(){
-    console.log("Host Online")
+    console.log("Server Online")
 })
