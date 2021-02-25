@@ -5,7 +5,6 @@ const app = express()
 const Sequelize = require ('Sequelize')
 const bodyParser = require('body-parser')
 
-//Alteração teste Git
 
 //Config
     //TEMPLATE ENGINE (Para utilizar o main.handlebars como view principal)
