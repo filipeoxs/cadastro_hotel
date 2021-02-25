@@ -79,7 +79,7 @@ Guest.create({
     credit_card:76096907,
     room_number:3
 }).then(function(){
-    console.log("Guest Registred")
+    console.log("Guest registered")
 }).catch(function(){
     console.log("[ERROR]" +console.error())
 })
